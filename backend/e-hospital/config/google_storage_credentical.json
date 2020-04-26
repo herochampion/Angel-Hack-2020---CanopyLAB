@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "angel-hack-canopylab",
+    "private_key_id": "8884fea8ad176d85715772e3cbbbb6f09443bd16",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8dJtyjq9pfHo/\nx8qRtJEKOAuRtYvf3PKzXhODAVCXJ+9C7XNNwi0k92W1DKGOOQdhaBxCmFo6TXL2\n1W3oRkDpQO22Q5ilQUS9hNYeT1ezfAr8+rQvfUuQUPXkAD0IdQ8n0FnqrMsznJaw\ncYA7+5FNr+ddwHCEwGqzQikpxRvBRm0PsAtreYDWPTGR7+255p1VAZBhCIsQNGFI\ncbtB/5ClEgBVNywi9DCPQj5uMELKvRr7041mKOkK1yspc5kgkZv+LkfFHAMAYnhA\n3UNcw0lr5u2t1GgIgQXXDGAGyEKeycbkFGx6tTtlMdxrC3zwQD06QbXHJLb0kPoC\nQ+B0JvKtAgMBAAECggEAKiwXCDL9dofkTIcPYf1MEsMZda0whLNrPW/hQmkGKZlG\nbc34xk8cbqANSs9tjMfeyrGzV0TENjVUM3/t9TNZfckpmOa2D08UjKugBc7gE5p/\n0/5fWZw6j2xKpk/WWKDneBOkN4OdAmr5frkbhvDEIqQpTJ3OoCp2BjDZSM9i52RR\n/5MTAIssBJ/sy4Rv6FCuMr75nnSVuKeWaB+fI091Q86jczKGswjh2M//1pidWKYe\nhZIYj5/rAeh2j/tlj5njZrHtxVkuh1KoyofBHkePgE9RE3N+AMa9+enGKSwz4oiK\niXPvPUOF90Ta1IBluvRhSR9Bf44HpP0TmJpnv7rtOQKBgQD131g5ax9jcXOzAh7w\nnRPp/rEXplkfT318mkblxVH54GA7BlHQmnmbJayUCN43YXoV185A8z6hL7GyYdPf\nZaSUlUGpTdOPfuJ3D771j8Qoycg0c+Xth2sEaPbMiJt6KXM81/j610Zs6sJ0/L4E\n1EU3cUXkhjr+vzXx6OOzrr25hQKBgQDEN9ExQBe0KntdRl9A42+k2I1b9Y4gJNWm\nJ6mUQIvNX6iUiR+9XvNRT2vbUn/w2Qs/EF0UqmF8vsto8s9UpQY54sAJtET76bB+\nkoh6xk24j4huuJEPpjSYtx5gea/Vp7HJkGiIioX/KUqZ+MhubamLUhe0fW9+/0vG\nIHQ0FSrJCQKBgQCZ6Wrv3pfyhzWXDC/UDXBG3VF8bXyCth7mnijdcszjL8rtiAI1\nJE4VidrjfD2my1VCUSpizCIbgqCo+sZHpPgGrvxAgGB8BkC7qVavn4R6x/2UoCyB\nqXCbfR1pYeZ57XKe1s+cLqB+U+LQmtpUaZC+qSDIciKCD640NcY8V5mahQKBgG0M\nMEBUxFemfGT8JRfkzjko+Haw40nN7samqEHyFUAP95qFEpSl3kfEAccj9GKf3PYx\nW+mOPxua1WT//GWoSOuGrv81pljyKNpPCXZiGvOFIWeXP1cZIYX1zvYC6suspMvG\na7Hmek2yXvlvH8TvQRhiiTYPuBU2QKBdjPcdBGgxAoGBAO739JTcUEuOU9lWGxFI\nVaAqQW1YuEzjpqghsW0Z7kyT5kOvNpPDsdyQCjKgc90JG8fWiJfnIQbeqrvCvGhv\nnMvoIm4lvNmfGQCoGlQxXU4QA5nzuPo3xBsXfmUxcEVhALhQNeZNhXbGKXFfUrSS\nNQrLipJETS/qLFPW3yEr/7Da\n-----END PRIVATE KEY-----\n",
+    "client_email": "storage-angel@angel-hack-canopylab.iam.gserviceaccount.com",
+    "client_id": "104758207422619051816",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-angel%40angel-hack-canopylab.iam.gserviceaccount.com"
+  }
+  
